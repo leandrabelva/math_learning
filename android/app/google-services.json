@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "743309110659",
+    "project_id": "lntproject-1c62f",
+    "storage_bucket": "lntproject-1c62f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743309110659:android:a460f0bd7d46639964dab6",
+        "android_client_info": {
+          "package_name": "com.example.math_learning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR78UiIredemMhq5bFO5sqvnuavQRU8WU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
