@@ -38,7 +38,7 @@ class _MainActivityState extends State<MainActivity> {
           borderRadius: BorderRadius.vertical(bottom: Radius.circular(20)),
         ),
       ),
-      body: _pages[_selectedIndex], // ✅ Display correct page
+      body: _pages[_selectedIndex], 
       bottomNavigationBar: BottomNavigationBar(
         items: const [
           BottomNavigationBarItem(icon: Icon(Icons.add), label: "Counter"),
