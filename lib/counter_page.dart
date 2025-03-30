@@ -16,7 +16,7 @@ class _CounterPageState extends State<CounterPage> {
 
   void _decrementCounter() {
     setState(() {
-      _counter--; // Bisa kurang dari 0
+      _counter--;
     });
   }
 
